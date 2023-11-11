@@ -17,3 +17,11 @@ O **memento pattern** é um padrão de design de software que expõe o estado in
 ## Factory Method Factory
 
 O padrão **Factory Method** é um padrão de design criacional que ajuda a programar para uma interface, não para uma implementação
+
+## State Pattern
+
+Padrão de estado
+
+O **state pattern** é um padrão de design de software comportamental que permite que um objeto altere seu comportamento quando seu estado interno muda.
+
+> _Esse padrão pode ajudá-lo a remover muitas instruções 'if then...'._
