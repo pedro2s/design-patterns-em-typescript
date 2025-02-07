@@ -14,7 +14,7 @@ O **memento pattern** é um padrão de design de software que expõe o estado in
 
 > _O padrão Memento espõe o estado interno privado de um objecto, da a possibilidade de restaurar um objecto, desfazer para um estado anterior,..Usando um tratador que cuidará de tudo isso_
 
-## Factory Method Factory
+## Factory Method
 
 O padrão **Factory Method** é um padrão de design criacional que ajuda a programar para uma interface, não para uma implementação
 
